@@ -1,2 +1,1 @@
-# fighting-game
 # Samurai-Fighters
